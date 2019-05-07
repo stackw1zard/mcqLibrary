@@ -1,0 +1,1277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="mAU" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AutomaticModuleUnloader">
+    <loaded-modules>
+      <module name="MCQ_wizard" />
+      <module name="app" />
+    </loaded-modules>
+  </component>
+  <component name="AvailableLibraryUpdateStorage">
+    <library-updates>
+      <library-update>
+        <group-id>com.android.support</group-id>
+        <name>appcompat-v7</name>
+        <version>28.0.0</version>
+        <repository>Google,Android Repository</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.google.code.gson</group-id>
+        <name>gson</name>
+        <version>2.8.5</version>
+        <repository>JCenter</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.android.support</group-id>
+        <name>design</name>
+        <version>28.0.0</version>
+        <repository>Google,Android Repository</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.google.firebase</group-id>
+        <name>firebase-auth</name>
+        <version>16.2.1</version>
+        <repository>Google,Google Repository</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.android.support</group-id>
+        <name>cardview-v7</name>
+        <version>28.0.0</version>
+        <repository>Google,Android Repository</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.github.bumptech.glide</group-id>
+        <name>glide</name>
+        <version>4.9.0</version>
+        <repository>JCenter</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.github.bumptech.glide</group-id>
+        <name>compiler</name>
+        <version>4.9.0</version>
+        <repository>JCenter</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.android.support</group-id>
+        <name>support-v4</name>
+        <version>28.0.0</version>
+        <repository>Google,Android Repository</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.google.firebase</group-id>
+        <name>firebase-storage</name>
+        <version>16.1.0</version>
+        <repository>Google,Google Repository</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.android.support.constraint</group-id>
+        <name>constraint-layout</name>
+        <version>2.0.0-alpha5</version>
+        <repository>Google</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.google.firebase</group-id>
+        <name>firebase-database</name>
+        <version>16.1.0</version>
+        <repository>Google,Google Repository</repository>
+      </library-update>
+      <library-update>
+        <group-id>junit</group-id>
+        <name>junit</name>
+        <version>4.13-beta-2</version>
+        <repository>JCenter</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.android.support.test</group-id>
+        <name>runner</name>
+        <version>1.0.2</version>
+        <repository>Google,Android Repository</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.android.support.test.espresso</group-id>
+        <name>espresso-core</name>
+        <version>3.0.2</version>
+        <repository>Google,Android Repository</repository>
+      </library-update>
+    </library-updates>
+    <last-search-timestamp>1556951105594</last-search-timestamp>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="098fd672-d9c3-4b5e-9274-3e1eab4c9266" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/fragmentlibrary/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fragmentlibrary/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fragmentlibrary/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fragmentlibrary/src/androidTest/java/com/stackwizards/custom/fragmentlibrary/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fragmentlibrary/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fragmentlibrary/src/main/res/drawable/android_plain_wordmark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fragmentlibrary/src/main/res/drawable/skull_dude_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fragmentlibrary/src/main/res/drawable/skull_pirate_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fragmentlibrary/src/main/res/drawable/skull_wizard_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fragmentlibrary/src/main/res/drawable/stack_app_logout_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fragmentlibrary/src/main/res/layout/fragment_download.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fragmentlibrary/src/main/res/layout/fragment_help_info.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fragmentlibrary/src/main/res/layout/fragment_leaderboard.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fragmentlibrary/src/main/res/layout/fragment_no_connection.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fragmentlibrary/src/main/res/layout/fragment_online.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fragmentlibrary/src/main/res/layout/my_dialog.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fragmentlibrary/src/main/res/layout/my_question.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fragmentlibrary/src/main/res/raw/failure.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fragmentlibrary/src/main/res/raw/sound_starter.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fragmentlibrary/src/main/res/raw/success.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fragmentlibrary/src/main/res/raw/thezero__game_over_sound.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fragmentlibrary/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fragmentlibrary/src/test/java/com/stackwizards/custom/fragmentlibrary/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybasiclib/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybasiclib/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybasiclib/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybasiclib/src/androidTest/java/com/stackwizards/custom/mybasiclib/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybasiclib/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybasiclib/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybasiclib/src/test/java/com/stackwizards/custom/mybasiclib/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/stackwizards/mcq_wizard/AddQuestionnaireActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/stackwizards/mcq_wizard/AddQuestionnaireActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/stackwizards/mcq_wizard/LoginActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybasiclib/src/main/java/com/stackwizards/custom/mybasiclib/LoginActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/stackwizards/mcq_wizard/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/stackwizards/mcq_wizard/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/stackwizards/mcq_wizard/ProfileActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/stackwizards/mcq_wizard/ProfileActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/stackwizards/mcq_wizard/SignUpActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybasiclib/src/main/java/com/stackwizards/custom/mybasiclib/SignUpActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/stackwizards/mcq_wizard/adapter/CustomAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/fragmentlibrary/src/main/java/com/stackwizards/custom/fragmentlibrary/fragment/adapter/CustomAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/stackwizards/mcq_wizard/adapter/ViewAdapterLeaderBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/fragmentlibrary/src/main/java/com/stackwizards/custom/fragmentlibrary/fragment/adapter/ViewAdapterLeaderBoard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/stackwizards/mcq_wizard/dialog/DialogResultInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/fragmentlibrary/src/main/java/com/stackwizards/custom/fragmentlibrary/fragment/dialog/DialogResultInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/stackwizards/mcq_wizard/dialog/ResultDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/fragmentlibrary/src/main/java/com/stackwizards/custom/fragmentlibrary/fragment/dialog/ResultDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/stackwizards/mcq_wizard/entity/Question.java" beforeDir="false" afterPath="$PROJECT_DIR$/fragmentlibrary/src/main/java/com/stackwizards/custom/fragmentlibrary/fragment/entity/Question.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/stackwizards/mcq_wizard/entity/Questionaire.java" beforeDir="false" afterPath="$PROJECT_DIR$/fragmentlibrary/src/main/java/com/stackwizards/custom/fragmentlibrary/fragment/entity/Questionaire.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/stackwizards/mcq_wizard/entity/WizardUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/fragmentlibrary/src/main/java/com/stackwizards/custom/fragmentlibrary/fragment/entity/WizardUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/stackwizards/mcq_wizard/fragment/DownloadFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/fragmentlibrary/src/main/java/com/stackwizards/custom/fragmentlibrary/fragment/DownloadFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/stackwizards/mcq_wizard/fragment/HelpInfoFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/fragmentlibrary/src/main/java/com/stackwizards/custom/fragmentlibrary/fragment/HelpInfoFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/stackwizards/mcq_wizard/fragment/LeaderBoardFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/fragmentlibrary/src/main/java/com/stackwizards/custom/fragmentlibrary/fragment/LeaderBoardFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/stackwizards/mcq_wizard/fragment/OfflineFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/fragmentlibrary/src/main/java/com/stackwizards/custom/fragmentlibrary/fragment/OfflineFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/stackwizards/mcq_wizard/fragment/OnlineFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/fragmentlibrary/src/main/java/com/stackwizards/custom/fragmentlibrary/fragment/OnlineFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/stackwizards/mcq_wizard/utils/FirebaseServiceUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/fragmentlibrary/src/main/java/com/stackwizards/custom/fragmentlibrary/fragment/utils/FirebaseServiceUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/stackwizards/mcq_wizard/utils/GraphicsUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/fragmentlibrary/src/main/java/com/stackwizards/custom/fragmentlibrary/fragment/utils/GraphicsUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/stackwizards/mcq_wizard/utils/StorageUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/fragmentlibrary/src/main/java/com/stackwizards/custom/fragmentlibrary/fragment/utils/StorageUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/stackwizards/mcq_wizard/utils/TimerUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/fragmentlibrary/src/main/java/com/stackwizards/custom/fragmentlibrary/fragment/utils/TimerUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybasiclib/src/main/res/layout/activity_login.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_sign_up.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybasiclib/src/main/res/layout/activity_sign_up.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_download.xml" beforeDir="false" afterPath="$PROJECT_DIR$/fragmentlibrary/src/main/res/drawable/layout/fragment_download.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_help_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/fragmentlibrary/src/main/res/drawable/layout/fragment_help_info.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_leaderboard.xml" beforeDir="false" afterPath="$PROJECT_DIR$/fragmentlibrary/src/main/res/drawable/layout/fragment_leaderboard.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_no_connection.xml" beforeDir="false" afterPath="$PROJECT_DIR$/fragmentlibrary/src/main/res/drawable/layout/fragment_no_connection.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_online.xml" beforeDir="false" afterPath="$PROJECT_DIR$/fragmentlibrary/src/main/res/drawable/layout/fragment_online.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/listview_adapter_leaderboard.xml" beforeDir="false" afterPath="$PROJECT_DIR$/fragmentlibrary/src/main/res/layout/listview_adapter_leaderboard.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/mcq_view_adpater.xml" beforeDir="false" afterPath="$PROJECT_DIR$/fragmentlibrary/src/main/res/layout/mcq_view_adpater.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/my_dialog.xml" beforeDir="false" afterPath="$PROJECT_DIR$/fragmentlibrary/src/main/res/drawable/layout/my_dialog.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/my_question.xml" beforeDir="false" afterPath="$PROJECT_DIR$/fragmentlibrary/src/main/res/drawable/layout/my_question.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/app">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="MCQ_wizard" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="MCQ_wizard" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/stackwizards/mcq_wizard/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="236">
+              <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+              <folding>
+                <element signature="method#onCreate#0;class#MainActivity#0" />
+                <element signature="method#onBackPressed#0;class#MainActivity#0" />
+                <element signature="method#onNavigationItemSelected#0;class#MainActivity#0" />
+                <element signature="method#syncWizardUser#0;class#MainActivity#0" />
+                <element signature="method#initialiseNewUser#0;class#MainActivity#0" />
+                <element signature="method#loadApplicationDrawer#0;class#MainActivity#0" />
+                <element signature="method#loadFragment#0;class#MainActivity#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="20" column="66" selection-start-line="20" selection-start-column="66" selection-end-line="20" selection-end-column="66" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-manifest" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fragmentlibrary/src/main/java/com/stackwizards/custom/fragmentlibrary/fragment/entity/WizardUser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="648">
+              <caret line="60" selection-start-line="60" selection-end-line="67" selection-end-column="5" />
+              <folding>
+                <element signature="e#1110#1111#0" expanded="true" />
+                <element signature="e#1146#1147#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/stackwizards/mcq_wizard/ProfileActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="39" column="44" selection-start-line="39" selection-end-line="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#4311#4312#0" expanded="true" />
+                <element signature="e#4361#4362#0" expanded="true" />
+                <element signature="method#onActivityResult#0;class#ProfileActivity#0" />
+                <element signature="method#getUserNameTextField#0;class#ProfileActivity#0" />
+                <element signature="method#updateWizardName#0;class#ProfileActivity#0" />
+                <element signature="method#loadWizardInformation#0;class#ProfileActivity#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fragmentlibrary/src/main/java/com/stackwizards/custom/fragmentlibrary/fragment/utils/TimerUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mybasiclib/src/main/java/com/stackwizards/custom/mybasiclib/LoginActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1118">
+              <caret line="120" column="29" selection-start-line="120" selection-start-column="29" selection-end-line="120" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#4847#5501#0" expanded="true" />
+                <element signature="e#5500#5501#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mybasiclib/src/main/java/com/stackwizards/custom/mybasiclib/SignUpActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-418">
+              <caret line="54" column="9" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fragmentlibrary/src/main/java/com/stackwizards/custom/fragmentlibrary/fragment/adapter/CustomAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1080">
+              <caret line="75" column="32" selection-start-line="75" selection-start-column="32" selection-end-line="75" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="valueResourceFile" />
+        <option value="Interface" />
+        <option value="layoutResourceFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>41</find>
+      <find>menu</find>
+      <find>simp</find>
+      <find>getL</find>
+      <find>jsonParse</find>
+      <find>content</find>
+      <find>timer</find>
+      <find>nextQuestion</find>
+      <find>uploadBitmapFirebase</find>
+      <find>log</find>
+      <find>prog</find>
+      <find>filepath</find>
+      <find>addDirectoryListerners</find>
+      <find>toas</find>
+      <find>to</find>
+      <find>cus</find>
+      <find>wizard</find>
+      <find>profileImageView</find>
+      <find>navigationView</find>
+      <find>drawer_layout</find>
+      <find>mQueue</find>
+      <find>userName</find>
+      <find>dbRefDefault2</find>
+      <find>profileImageUrl</find>
+      <find>onActivityResult</find>
+    </findStrings>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="EXPORT_PRIVATE_KEY" value="false" />
+    <option name="KEY_STORE_PATH" value="$USER_HOME$/Documents/mcq2.jks" />
+    <option name="KEY_ALIAS" value="key0" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/java/com/stackwizards/mcq_wizard/fragment/LeaderBoardFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_edit.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_leaderboard.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/stackwizards/mcq_wizard/fragment/DownloadFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/stackwizards/mcq_wizard/entity/WizardUser.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_help_info.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/menu/activity_main_drawer.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_profile.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/nav_header_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/stackwizards/mcq_wizard/service/TimerTextHelper.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/stackwizards/mcq_wizard/service/FirebaseServiceUtils.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/stackwizards/mcq_wizard/service/GraphicUtils.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/stackwizards/mcq_wizard/LoginActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/stackwizards/mcq_wizard/SignUpActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/stackwizards/mcq_wizard/EditActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/stackwizards/mcq_wizard/entity/Question.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/stackwizards/mcq_wizard/entity/Questionaire.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/stackwizards/mcq_wizard/service/Utils.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/stackwizards/mcq_wizard/service/GraphicsUtils.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/stackwizards/mcq_wizard/service/TimerUtil.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/stackwizards/mcq_wizard/service/StorageUtils.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/stackwizards/mcq_wizard/utils/StorageUtils.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/stackwizards/mcq_wizard/UploadQuestionaireActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/stackwizards/mcq_wizard/fragment/OnlineFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/stackwizards/mcq_wizard/dialog/ResultDialog.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/stackwizards/mcq_wizard/dialog/DialogResultInterface.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/stackwizards/mcq_wizard/AddQuestionaireActivity.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/fragmentlibrary/src/main/res/fragment_download.xml" />
+        <option value="$PROJECT_DIR$/fragmentlibrary/src/main/java/com/stackwizards/custom/fragmentlibrary/fragment/entity/Question.java" />
+        <option value="$PROJECT_DIR$/fragmentlibrary/src/main/java/com/stackwizards/custom/fragmentlibrary/fragment/OfflineFragment.java" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/fragmentlibrary/src/main/java/com/stackwizards/custom/fragmentlibrary/fragment/DownloadFragment.java" />
+        <option value="$PROJECT_DIR$/fragmentlibrary/src/main/java/com/stackwizards/custom/fragmentlibrary/fragment/HelpInfoFragment.java" />
+        <option value="$PROJECT_DIR$/mybasiclib/src/main/java/com/stackwizards/custom/mybasiclib/entity/WizardUser.java" />
+        <option value="$PROJECT_DIR$/mybasiclib/build.gradle" />
+        <option value="$PROJECT_DIR$/fragmentlibrary/build.gradle" />
+        <option value="$PROJECT_DIR$/fragmentlibrary/src/main/java/com/stackwizards/custom/fragmentlibrary/fragment/LeaderBoardFragment.java" />
+        <option value="$PROJECT_DIR$/fragmentlibrary/src/main/java/com/stackwizards/custom/fragmentlibrary/fragment/entity/WizardUser.java" />
+        <option value="$PROJECT_DIR$/mybasiclib/src/main/java/com/stackwizards/custom/mybasiclib/utils/TimerUtil.java" />
+        <option value="$PROJECT_DIR$/fragmentlibrary/src/main/java/com/stackwizards/custom/fragmentlibrary/fragment/OnlineFragment.java" />
+        <option value="$PROJECT_DIR$/fragmentlibrary/src/main/java/com/stackwizards/custom/fragmentlibrary/fragment/utils/TimerUtil.java" />
+        <option value="$PROJECT_DIR$/fragmentlibrary/src/main/java/com/stackwizards/custom/fragmentlibrary/fragment/utils/FirebaseServiceUtils.java" />
+        <option value="$PROJECT_DIR$/fragmentlibrary/src/main/java/com/stackwizards/custom/fragmentlibrary/fragment/adapter/CustomAdapter.java" />
+        <option value="$PROJECT_DIR$/fragmentlibrary/src/main/java/com/stackwizards/custom/fragmentlibrary/fragment/dialog/ResultDialog.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/stackwizards/mcq_wizard/ProfileActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/stackwizards/mcq_wizard/AddQuestionnaireActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/mybasiclib/src/main/java/com/stackwizards/custom/mybasiclib/SignUpActivity.java" />
+        <option value="$PROJECT_DIR$/mybasiclib/src/main/java/com/stackwizards/custom/mybasiclib/LoginActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/stackwizards/mcq_wizard/MainActivity.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="516" />
+    <option name="y" value="27" />
+    <option name="width" value="1214" />
+    <option name="height" value="1012" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Android</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AndroidDomInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MCQ_wizard" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="MCQ_wizard" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="manifests" type="f94875db:AndroidManifestsGroupNode" />
+            </path>
+            <path>
+              <item name="MCQ_wizard" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="MCQ_wizard" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="mcq_wizard" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MCQ_wizard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MCQ_wizard" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="MCQ_wizard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MCQ_wizard" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="MCQ_wizard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MCQ_wizard" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MCQ_wizard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MCQ_wizard" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MCQ_wizard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MCQ_wizard" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MCQ_wizard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MCQ_wizard" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mcq_wizard" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MCQ_wizard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MCQ_wizard" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MCQ_wizard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MCQ_wizard" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="layout" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MCQ_wizard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MCQ_wizard" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="fragmentlibrary" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="MCQ_wizard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MCQ_wizard" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="fragmentlibrary" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MCQ_wizard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MCQ_wizard" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="fragmentlibrary" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MCQ_wizard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MCQ_wizard" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="fragmentlibrary" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MCQ_wizard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MCQ_wizard" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="fragmentlibrary" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="fragment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MCQ_wizard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MCQ_wizard" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="fragmentlibrary" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="fragment" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MCQ_wizard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MCQ_wizard" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="fragmentlibrary" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MCQ_wizard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MCQ_wizard" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="fragmentlibrary" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="layout" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExportApk.ApkPath" value="$PROJECT_DIR$/app" />
+    <property name="ExportApk.BuildVariants" value="release" />
+    <property name="ExportApk.SignV2" value="true" />
+    <property name="android.project.structure.last.selected" value="app" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="device.picker.selection" value="0123456789ABCDEF" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MyApplicationMapDemo" />
+    <property name="project.structure.last.edited" value="Dependencies" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="experimental" />
+    <property name="show.do.not.ask.upgrade.gradle.plugin" value="3.3.2" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="RESOLVED_DEPENDENCIES_MINIMIZE" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/fragmentlibrary/src/main/res/layout" />
+      <recent name="$PROJECT_DIR$/mybasiclib/src/main/res/layout" />
+      <recent name="$PROJECT_DIR$/fragmentlibrary/src/main/res" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/values" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.stackwizards.custom.mybasiclib" />
+      <recent name="com.stackwizards.custom.fragmentlibrary" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.stackwizards.mcq_wizard.adapter" />
+      <recent name="com.stackwizards.mcq_wizard.service" />
+      <recent name="com.stackwizards.mcq_wizard" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/fragmentlibrary/src/main/res/drawable" />
+      <recent name="$PROJECT_DIR$/fragmentlibrary/src/main/res/raw" />
+      <recent name="$PROJECT_DIR$/fragmentlibrary/src/main/java/com/stackwizards/custom/fragmentlibrary/fragment" />
+      <recent name="$PROJECT_DIR$/fragmentlibrary/src/main/res/layout" />
+      <recent name="$PROJECT_DIR$/fragmentlibrary/src/main/res" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainActivity" type="AndroidRunConfigurationType" factoryName="Android App" temporary="true">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="specific_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="com.stackwizards.mcq_wizard.MainActivity" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Android App.app" />
+      <item itemvalue="Android App.MainActivity" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android App.MainActivity" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="098fd672-d9c3-4b5e-9274-3e1eab4c9266" name="Default Changelist" comment="" />
+      <created>1554839087946</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554839087946</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="59" y="25" width="1861" height="1014" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49828768" visible="true" weight="0.20495868" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" sideWeight="0.5017123" side_tool="true" weight="0.26556474" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Resources Explorer" order="8" />
+      <window_info anchor="bottom" id="Run" order="0" sideWeight="0.4980716" visible="true" weight="0.40677965" />
+      <window_info anchor="bottom" id="Logcat" order="1" sideWeight="0.49641874" weight="0.32316384" />
+      <window_info anchor="bottom" id="TODO" order="2" sideWeight="0.49790794" weight="0.32768363" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.32918552" />
+      <window_info anchor="bottom" id="Terminal" order="4" sideWeight="0.49790794" weight="0.32858837" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.31955922" side_tool="true" weight="0.3378531" />
+      <window_info anchor="bottom" id="Version Control" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.68092483" weight="0.3378531" />
+      <window_info anchor="bottom" id="Find" order="8" sideWeight="0.4997245" weight="0.37062147" />
+      <window_info anchor="bottom" id="Android Profiler" order="9" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.4831956" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Preview" order="4" weight="0.095316805" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Assistant" order="6" weight="0.55647385" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.49828768" visible="true" weight="0.20495868" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" sideWeight="0.5017123" side_tool="true" weight="0.26556474" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Resources Explorer" order="8" />
+      <window_info anchor="bottom" id="Run" order="0" sideWeight="0.4980716" weight="0.26892656" />
+      <window_info anchor="bottom" id="Logcat" order="1" sideWeight="0.49641874" weight="0.32316384" />
+      <window_info anchor="bottom" id="TODO" order="2" sideWeight="0.49790794" weight="0.32858837" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.32918552" />
+      <window_info anchor="bottom" id="Terminal" order="4" sideWeight="0.49790794" weight="0.32858837" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.31955922" side_tool="true" weight="0.3378531" />
+      <window_info anchor="bottom" id="Version Control" order="6" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Build" order="7" sideWeight="0.68092483" visible="true" weight="0.3378531" />
+      <window_info anchor="bottom" id="Find" order="8" sideWeight="0.4997245" weight="0.37062147" />
+      <window_info anchor="bottom" id="Android Profiler" order="9" show_stripe_button="false" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.4831956" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Preview" order="4" weight="0.095316805" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Assistant" order="6" weight="0.55647385" />
+    </layout-to-restore>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/fragmentlibrary/src/main/java/com/stackwizards/custom/fragmentlibrary/fragment/LeaderBoardFragment.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/fragmentlibrary/src/main/java/com/stackwizards/custom/fragmentlibrary/fragment/adapter/ViewAdapterLeaderBoard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/firebase-database-16.0.1.aar/3b7589b0fb8f158ccc314b0187e20466/jars/classes.jar!/com/google/firebase/database/ValueEventListener.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_edit.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fragmentlibrary/src/main/res/layout/fragment_leaderboard.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fragmentlibrary/src/main/res/layout/mcq_view_adpater.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fragmentlibrary/src/main/res/layout/listview_adapter_leaderboard.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="26" column="44" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fragmentlibrary/src/main/res/layout/fragment_help_info.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="56" column="69" selection-start-line="56" selection-start-column="69" selection-end-line="56" selection-end-column="69" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$USER_HOME$/Android/Sdk/sources/android-28/android/app/Instrumentation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="1268" selection-start-line="1268" selection-end-line="1268" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Android/Sdk/sources/android-28/android/app/Activity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="6788" selection-start-line="6788" selection-end-line="6788" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Android/Sdk/sources/android-28/android/os/Handler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="130" column="37" lean-forward="true" selection-start-line="130" selection-start-column="37" selection-end-line="130" selection-end-column="37" />
+          <folding>
+            <element signature="e#5154#5155#0" expanded="true" />
+            <element signature="e#5191#5192#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Android/Sdk/sources/android-28/android/os/Looper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="202" selection-start-line="202" selection-end-line="202" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fragmentlibrary/src/main/res/layout/fragment_online.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="60" column="12" selection-start-line="60" selection-start-column="12" selection-end-line="60" selection-end-column="40" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/stack_app_image.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/stack_app_image_default.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="33" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/nav_header_main.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="50" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/activity_main_drawer.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="29" column="43" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/stack_app_login_image.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_profile.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="27" column="52" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/stackwizards/mcq_wizard/entity/Question.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/main.xml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/stackwizards/mcq_wizard/entity/Questionaire.java" />
+    <entry file="file://$PROJECT_DIR$/fragmentlibrary/src/main/java/com/stackwizards/custom/fragmentlibrary/fragment/utils/StorageUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="method#isExternalStorageReadOnly#0;class#Utils#0" />
+            <element signature="method#isExternalStorageAvailable#0;class#Utils#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fragmentlibrary/src/main/java/com/stackwizards/custom/fragmentlibrary/fragment/dialog/DialogResultInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fragmentlibrary/src/main/java/com/stackwizards/custom/fragmentlibrary/fragment/utils/GraphicsUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/stackwizards/mcq_wizard/entity/WizardUser.java" />
+    <entry file="file://$PROJECT_DIR$/fragmentlibrary/src/main/res/fragment_download.xml" />
+    <entry file="file://$PROJECT_DIR$/fragmentlibrary/src/main/res/layout/fragment_download.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fragmentlibrary/src/main/res/drawable/layout/my_dialog.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fragmentlibrary/src/main/java/com/stackwizards/custom/fragmentlibrary/fragment/entity/Questionaire.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fragmentlibrary/src/main/java/com/stackwizards/custom/fragmentlibrary/fragment/entity/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybasiclib/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="31" selection-start-line="31" selection-end-line="33" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fragmentlibrary/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="36" column="64" selection-start-line="36" selection-start-column="64" selection-end-line="36" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fragmentlibrary/src/main/java/com/stackwizards/custom/fragmentlibrary/fragment/DownloadFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2070">
+          <caret line="115" column="22" selection-start-line="115" selection-start-column="22" selection-end-line="115" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fragmentlibrary/src/main/java/com/stackwizards/custom/fragmentlibrary/fragment/LeaderBoardFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fragmentlibrary/src/main/java/com/stackwizards/custom/fragmentlibrary/fragment/OfflineFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="54" column="13" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/stackwizards/mcq_wizard/AddQuestionnaireActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1476">
+          <caret line="140" column="8" selection-start-line="140" selection-start-column="8" selection-end-line="140" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#onActivityResult#0;class#AddQuestionnaireActivity#0" />
+            <element signature="method#getEditTextFieldValue#0;class#AddQuestionnaireActivity#0" />
+            <element signature="method#prepareQuestionnaireForUpload#0;class#AddQuestionnaireActivity#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fragmentlibrary/src/main/java/com/stackwizards/custom/fragmentlibrary/fragment/HelpInfoFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fragmentlibrary/src/main/java/com/stackwizards/custom/fragmentlibrary/fragment/dialog/ResultDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="22" column="109" selection-start-line="22" selection-start-column="109" selection-end-line="22" selection-end-column="109" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fragmentlibrary/src/main/java/com/stackwizards/custom/fragmentlibrary/fragment/entity/WizardUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="60" selection-start-line="60" selection-end-line="67" selection-end-column="5" />
+          <folding>
+            <element signature="e#1110#1111#0" expanded="true" />
+            <element signature="e#1146#1147#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fragmentlibrary/src/main/java/com/stackwizards/custom/fragmentlibrary/fragment/adapter/CustomAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="75" column="32" selection-start-line="75" selection-start-column="32" selection-end-line="75" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/stackwizards/mcq_wizard/ProfileActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="39" column="44" selection-start-line="39" selection-end-line="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#4311#4312#0" expanded="true" />
+            <element signature="e#4361#4362#0" expanded="true" />
+            <element signature="method#onActivityResult#0;class#ProfileActivity#0" />
+            <element signature="method#getUserNameTextField#0;class#ProfileActivity#0" />
+            <element signature="method#updateWizardName#0;class#ProfileActivity#0" />
+            <element signature="method#loadWizardInformation#0;class#ProfileActivity#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fragmentlibrary/src/main/java/com/stackwizards/custom/fragmentlibrary/fragment/OnlineFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4244">
+          <caret line="479" column="5" selection-start-line="479" selection-start-column="5" selection-end-line="479" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="20" column="66" selection-start-line="20" selection-start-column="66" selection-end-line="20" selection-end-column="66" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fragmentlibrary/src/main/java/com/stackwizards/custom/fragmentlibrary/fragment/utils/FirebaseServiceUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fragmentlibrary/src/main/java/com/stackwizards/custom/fragmentlibrary/fragment/utils/TimerUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybasiclib/src/main/java/com/stackwizards/custom/mybasiclib/SignUpActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-418">
+          <caret line="54" column="9" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybasiclib/src/main/java/com/stackwizards/custom/mybasiclib/LoginActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1118">
+          <caret line="120" column="29" selection-start-line="120" selection-start-column="29" selection-end-line="120" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#4847#5501#0" expanded="true" />
+            <element signature="e#5500#5501#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/stackwizards/mcq_wizard/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="method#onCreate#0;class#MainActivity#0" />
+            <element signature="method#onBackPressed#0;class#MainActivity#0" />
+            <element signature="method#onNavigationItemSelected#0;class#MainActivity#0" />
+            <element signature="method#syncWizardUser#0;class#MainActivity#0" />
+            <element signature="method#initialiseNewUser#0;class#MainActivity#0" />
+            <element signature="method#loadApplicationDrawer#0;class#MainActivity#0" />
+            <element signature="method#loadFragment#0;class#MainActivity#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
